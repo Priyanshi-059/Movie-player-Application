@@ -62,7 +62,16 @@ The website offers additional playlists curated for user enjoyment. Users can ex
 
 # 7- Movies 
 Users can initiate movie playback and access movie details by simply clicking on the image, a feature available on both the playlist and search pages. Additionally, users can manage playback settings such as volume, quality, speed, or toggling voice options for an optimized viewing experience. This comprehensive functionality empowers users to tailor their movie-watching experience according to their preferences and requirements.
-https://github.com/Priyanshi-059/Movie-player-Application/assets/138461509/e5b18092-8175-4667-9a09-3f41d4cfa770
+
+
+
+
+
+
+https://github.com/Priyanshi-059/Movie-player-Application/assets/138461509/b0fe4d57-5119-4a35-9fb1-98d64d9d46b9
+
+
+
 
 # 8- About
 Lastly the about page of the Film Fare website. Join Film Fare and dive into the world of cinema today!
