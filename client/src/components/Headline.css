@@ -1,0 +1,23 @@
+.outerdiv{
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+}
+
+
+
+.outerdiv h2{
+    color:deeppink;
+    font-weight: bold;
+    font-size: x-large;    
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.outerdiv p{
+    color: darkgrey;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}

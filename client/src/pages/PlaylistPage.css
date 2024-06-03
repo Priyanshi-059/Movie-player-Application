@@ -1,0 +1,141 @@
+
+.playlist-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .playlist-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .playlist-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: darkcyan;
+  }
+  
+.box{
+  display: flex;
+}
+  
+  .playlist-movie-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .playlist-movie-item {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .playlist-movie-item:last-child {
+    border-bottom: none;
+  }
+  
+  .playlist-movie-info{
+    display: flex;
+    margin: 5px;
+    flex-direction: column;
+  }
+
+  .delbtn{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: auto;
+  }
+
+  .head{
+    color: black;
+    background-color: rgb(3, 203, 160);
+    font-size:x-large;
+    border-radius: 3px;
+    font-weight:bold;
+    margin: 10px;
+    padding: 5px;
+}
+
+.playlist-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
+  
+  .playlist-cards-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+  }
+  
+  .playlist-card {
+    border-radius: 8px;
+    border: 2px solid rgb(164, 161, 150);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 5px;
+    padding: 10px;
+    width: calc(50% - 10px); /* Adjust width and margin as needed */
+  }
+  
+  .playlist-card h3 {
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  .playlist-movies {
+    display: flex;
+    flex-direction: column; /* Display movies in a column */
+  }
+
+  .playlist-title span{
+    color: rgb(204, 35, 159);
+  }
+
+  .sp{
+    color: rgb(234, 231, 31);
+    font-size: larger;
+  }
+  
+  .playlist-movie-info {
+        color: white;
+  }
+
+  .playlist-movie {
+    background-color:gray;
+    margin-top: 10px;
+    display: flex;
+    border: 2px solid white;
+    border-radius: 5px;
+  }
+  
+  .playlist-movie img {
+    max-width: 100px; /* Adjust size of movie posters */
+    height: auto;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  
+  .playlist-movie-info h4,
+  .playlist-movie-info p {
+    margin: 0;
+  }
+  
+  .playlist-movie-info h4 {
+    color: black; /* Adjust text color as needed */
+  }
+  
+  .playlist-movie-info p {
+    color: black; /* Adjust text color as needed */
+  }
+  
+  
