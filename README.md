@@ -6,7 +6,9 @@ ranging from classic films to the latest blockbusters, catering to all tastes an
 ![Screenshot 2024-06-03 174510](https://github.com/Priyanshi-059/Movie-player-Application/assets/138461509/8b50e690-d962-48c4-9646-31d5ba1c29e3)
 
 
-Link of the Application:- https://movieplayer-application.onrender.com
+## Link of the Application 
+
+https://movie-player-application.onrender.com/
 
 # Introduction:-
 The Movie Player Application is a web-based platform designed to provide users with an immersive movie-watching experience. Built with modern web technologies, 
