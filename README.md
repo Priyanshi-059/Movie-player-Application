@@ -32,6 +32,24 @@ Secures authentication and authorization by representing claims between the clie
 Provides user authentication services, supporting various authentication methods like passwords and social logins.
 
 
+
+# Installation
+To install Project Title, follow these steps:
+
+##### 1. Clone the repository:
+                     git clone https://github.com/username/project-title.git
+#### 2. Navigate to the project directory:
+                     cd project-title
+#### 3. Install dependencies:
+                     npm install
+#### 4. Build the project:
+                     npm run build
+#### 5. Start the project:
+                     npm start
+
+
+
+
 # Featues
 
 # 1 - Sign In 
